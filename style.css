@@ -1,0 +1,154 @@
+.first{
+    
+    background-color: black;
+    height:50px;
+    width:900px;
+    margin:auto;
+  position:sticky;
+    
+
+}
+.second{
+    background-color: rgba(0, 0, 0, 0.435);
+    height:600px;
+    width:900px;
+    margin:auto;
+    display:flex;
+    position:sticky;
+  
+
+  }
+  .both{
+    margin-left:40%;
+  }
+  .hero{
+    height:100px;
+    width:100px;
+    position:fixed;
+    margin:auto;
+    display:flex;
+    padding:auto;
+    margin-top:2%;
+  
+    
+
+  }
+  .hero img{
+    border:2px solid blue;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+    }
+  .h3{
+    
+    height:100px;
+    width:100px;
+    position:fixed;
+    margin:auto;
+    display:flex;
+    padding:auto;
+    margin-top: 25%;
+    margin-left:31%;
+  
+    
+    
+
+  }
+  
+  .h3 img{
+    border:2px solid red;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .h1{
+    height:100px;
+    width:100px;
+    position:fixed;
+    margin:auto;
+    display:flex;
+    padding:auto;
+  
+    padding:3%;
+    margin-left:27%;
+    margin-top:-1%;
+    
+
+  }
+  
+  
+  
+  .h1 img{
+    border:2px solid red;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 10px;
+  }
+  .hero1 img{
+    border:2px solid blue;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+    }
+  .hero1{
+    
+    height:80px;
+    width:80px;
+    position:fixed;
+    margin:auto;
+    display:flex;
+    padding:auto;
+    margin-top: 13%;
+    padding:1%;
+
+  }
+  .hero2 img{
+    border:2px solid blue;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+    }
+  
+  .hero2{
+    
+    height:80px;
+    width:80px;
+    position:fixed;
+    margin:auto;
+    display:flex;
+    padding:auto;
+  margin-top: 25%;
+  padding:1%;
+
+  }
+  .h2{
+    height:100px;
+    width:100px;
+    position:fixed;
+    margin:auto;
+    display:flex;
+    padding:auto;
+    margin-left:31%;
+    margin-top:13%;
+    padding:1%;
+
+  }
+  
+  .h2 img{
+    border:2px solid red;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  
+  
+
